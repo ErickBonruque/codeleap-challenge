@@ -1,0 +1,9 @@
+# Core packages
+Django
+djangorestframework
+
+# API Documentation
+drf-spectacular
+
+# Filtering
+django-filter
